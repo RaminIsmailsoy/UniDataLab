@@ -97,7 +97,7 @@ class AnalyticsService:
         program_fields = db.query(Program.field).distinct().all()
         program_skills = [row[0] for row in program_fields]
 
-        gaps = skill_gap_analyzer.analyze_gaps(program_skills, market_skills)
+        skill_gap_analyzer.analyze_gaps(program_skills, market_skills)
 
         skill_freq: Dict[str, int] = {}
         for skill in market_skills:
