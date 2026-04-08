@@ -1,0 +1,742 @@
+[
+  {
+    "name": "MIT",
+    "country": "USA",
+    "region": "North America",
+    "type": "private",
+    "student_count": 11520,
+    "programs": [
+      {
+        "name": "Computer Science",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 850,
+        "graduation_rate": 95.2,
+        "status": "active"
+      },
+      {
+        "name": "Artificial Intelligence",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 420,
+        "graduation_rate": 96.8,
+        "status": "active"
+      },
+      {
+        "name": "Data Science",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 380,
+        "graduation_rate": 94.5,
+        "status": "active"
+      },
+      {
+        "name": "Electrical Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 620,
+        "graduation_rate": 93.1,
+        "status": "active"
+      },
+      {
+        "name": "Mechanical Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 580,
+        "graduation_rate": 92.4,
+        "status": "active"
+      },
+      {
+        "name": "Cybersecurity",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 210,
+        "graduation_rate": 95.7,
+        "status": "active"
+      },
+      {
+        "name": "Physics",
+        "field": "Science",
+        "degree_level": "bachelor",
+        "enrolled_students": 390,
+        "graduation_rate": 91.3,
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "name": "Stanford University",
+    "country": "USA",
+    "region": "North America",
+    "type": "private",
+    "student_count": 17249,
+    "programs": [
+      {
+        "name": "Computer Science",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 920,
+        "graduation_rate": 94.8,
+        "status": "active"
+      },
+      {
+        "name": "Artificial Intelligence",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 510,
+        "graduation_rate": 95.6,
+        "status": "active"
+      },
+      {
+        "name": "Business Administration",
+        "field": "Business",
+        "degree_level": "master",
+        "enrolled_students": 840,
+        "graduation_rate": 97.1,
+        "status": "active"
+      },
+      {
+        "name": "Data Science",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 460,
+        "graduation_rate": 93.9,
+        "status": "active"
+      },
+      {
+        "name": "Biomedical Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 310,
+        "graduation_rate": 92.8,
+        "status": "active"
+      },
+      {
+        "name": "Law",
+        "field": "Law",
+        "degree_level": "master",
+        "enrolled_students": 560,
+        "graduation_rate": 96.2,
+        "status": "active"
+      },
+      {
+        "name": "Environmental Science",
+        "field": "Science",
+        "degree_level": "bachelor",
+        "enrolled_students": 280,
+        "graduation_rate": 90.5,
+        "status": "active"
+      },
+      {
+        "name": "Medicine",
+        "field": "Medicine",
+        "degree_level": "doctorate",
+        "enrolled_students": 490,
+        "graduation_rate": 98.2,
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "name": "University of Oxford",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "type": "public",
+    "student_count": 24600,
+    "programs": [
+      {
+        "name": "Computer Science",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 480,
+        "graduation_rate": 93.7,
+        "status": "active"
+      },
+      {
+        "name": "Medicine",
+        "field": "Medicine",
+        "degree_level": "bachelor",
+        "enrolled_students": 620,
+        "graduation_rate": 97.4,
+        "status": "active"
+      },
+      {
+        "name": "Law",
+        "field": "Law",
+        "degree_level": "bachelor",
+        "enrolled_students": 720,
+        "graduation_rate": 95.8,
+        "status": "active"
+      },
+      {
+        "name": "Economics",
+        "field": "Business",
+        "degree_level": "bachelor",
+        "enrolled_students": 550,
+        "graduation_rate": 92.3,
+        "status": "active"
+      },
+      {
+        "name": "Data Science",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 320,
+        "graduation_rate": 91.8,
+        "status": "active"
+      },
+      {
+        "name": "Psychology",
+        "field": "Social Sciences",
+        "degree_level": "bachelor",
+        "enrolled_students": 410,
+        "graduation_rate": 90.6,
+        "status": "active"
+      },
+      {
+        "name": "Public Health",
+        "field": "Medicine",
+        "degree_level": "master",
+        "enrolled_students": 280,
+        "graduation_rate": 93.2,
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "name": "University of Cambridge",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "type": "public",
+    "student_count": 23247,
+    "programs": [
+      {
+        "name": "Computer Science",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 460,
+        "graduation_rate": 94.1,
+        "status": "active"
+      },
+      {
+        "name": "Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 890,
+        "graduation_rate": 93.5,
+        "status": "active"
+      },
+      {
+        "name": "Natural Sciences",
+        "field": "Science",
+        "degree_level": "bachelor",
+        "enrolled_students": 780,
+        "graduation_rate": 92.7,
+        "status": "active"
+      },
+      {
+        "name": "Medicine",
+        "field": "Medicine",
+        "degree_level": "bachelor",
+        "enrolled_students": 540,
+        "graduation_rate": 97.8,
+        "status": "active"
+      },
+      {
+        "name": "Artificial Intelligence",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 290,
+        "graduation_rate": 93.4,
+        "status": "active"
+      },
+      {
+        "name": "Economics",
+        "field": "Business",
+        "degree_level": "bachelor",
+        "enrolled_students": 520,
+        "graduation_rate": 91.9,
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "name": "ETH Zurich",
+    "country": "Switzerland",
+    "region": "Europe",
+    "type": "public",
+    "student_count": 22193,
+    "programs": [
+      {
+        "name": "Computer Science",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 680,
+        "graduation_rate": 91.2,
+        "status": "active"
+      },
+      {
+        "name": "Mechanical Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 540,
+        "graduation_rate": 89.7,
+        "status": "active"
+      },
+      {
+        "name": "Data Science",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 380,
+        "graduation_rate": 92.6,
+        "status": "active"
+      },
+      {
+        "name": "Electrical Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 490,
+        "graduation_rate": 90.3,
+        "status": "active"
+      },
+      {
+        "name": "Cybersecurity",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 220,
+        "graduation_rate": 93.1,
+        "status": "active"
+      },
+      {
+        "name": "Civil Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 430,
+        "graduation_rate": 88.9,
+        "status": "active"
+      },
+      {
+        "name": "Chemical Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 350,
+        "graduation_rate": 87.6,
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "name": "TU Munich",
+    "country": "Germany",
+    "region": "Europe",
+    "type": "public",
+    "student_count": 48000,
+    "programs": [
+      {
+        "name": "Computer Science",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 1200,
+        "graduation_rate": 88.5,
+        "status": "active"
+      },
+      {
+        "name": "Mechanical Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 980,
+        "graduation_rate": 87.2,
+        "status": "active"
+      },
+      {
+        "name": "Electrical Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 850,
+        "graduation_rate": 86.9,
+        "status": "active"
+      },
+      {
+        "name": "Data Engineering",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 420,
+        "graduation_rate": 90.1,
+        "status": "active"
+      },
+      {
+        "name": "Artificial Intelligence",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 380,
+        "graduation_rate": 91.3,
+        "status": "active"
+      },
+      {
+        "name": "Business Administration",
+        "field": "Business",
+        "degree_level": "master",
+        "enrolled_students": 560,
+        "graduation_rate": 89.8,
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "name": "University of Tokyo",
+    "country": "Japan",
+    "region": "Asia",
+    "type": "public",
+    "student_count": 28000,
+    "programs": [
+      {
+        "name": "Computer Science",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 720,
+        "graduation_rate": 92.4,
+        "status": "active"
+      },
+      {
+        "name": "Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 1100,
+        "graduation_rate": 91.6,
+        "status": "active"
+      },
+      {
+        "name": "Medicine",
+        "field": "Medicine",
+        "degree_level": "bachelor",
+        "enrolled_students": 480,
+        "graduation_rate": 96.7,
+        "status": "active"
+      },
+      {
+        "name": "Data Science",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 340,
+        "graduation_rate": 90.8,
+        "status": "active"
+      },
+      {
+        "name": "Economics",
+        "field": "Business",
+        "degree_level": "bachelor",
+        "enrolled_students": 580,
+        "graduation_rate": 89.3,
+        "status": "active"
+      },
+      {
+        "name": "Mechanical Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 660,
+        "graduation_rate": 90.1,
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "name": "IIT Bombay",
+    "country": "India",
+    "region": "Asia",
+    "type": "public",
+    "student_count": 10000,
+    "programs": [
+      {
+        "name": "Computer Science",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 580,
+        "graduation_rate": 96.1,
+        "status": "active"
+      },
+      {
+        "name": "Electrical Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 480,
+        "graduation_rate": 94.8,
+        "status": "active"
+      },
+      {
+        "name": "Mechanical Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 440,
+        "graduation_rate": 93.5,
+        "status": "active"
+      },
+      {
+        "name": "Data Science",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 260,
+        "graduation_rate": 95.3,
+        "status": "active"
+      },
+      {
+        "name": "Chemical Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 380,
+        "graduation_rate": 92.7,
+        "status": "active"
+      },
+      {
+        "name": "Civil Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 340,
+        "graduation_rate": 91.2,
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "name": "University of Cape Town",
+    "country": "South Africa",
+    "region": "Africa",
+    "type": "public",
+    "student_count": 29000,
+    "programs": [
+      {
+        "name": "Computer Science",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 420,
+        "graduation_rate": 82.4,
+        "status": "active"
+      },
+      {
+        "name": "Medicine",
+        "field": "Medicine",
+        "degree_level": "bachelor",
+        "enrolled_students": 380,
+        "graduation_rate": 87.6,
+        "status": "active"
+      },
+      {
+        "name": "Business Administration",
+        "field": "Business",
+        "degree_level": "bachelor",
+        "enrolled_students": 560,
+        "graduation_rate": 81.3,
+        "status": "active"
+      },
+      {
+        "name": "Civil Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 310,
+        "graduation_rate": 79.8,
+        "status": "active"
+      },
+      {
+        "name": "Public Health",
+        "field": "Medicine",
+        "degree_level": "master",
+        "enrolled_students": 240,
+        "graduation_rate": 84.2,
+        "status": "active"
+      },
+      {
+        "name": "Environmental Science",
+        "field": "Science",
+        "degree_level": "bachelor",
+        "enrolled_students": 280,
+        "graduation_rate": 83.7,
+        "status": "active"
+      },
+      {
+        "name": "Law",
+        "field": "Law",
+        "degree_level": "bachelor",
+        "enrolled_students": 490,
+        "graduation_rate": 80.6,
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "name": "University of São Paulo",
+    "country": "Brazil",
+    "region": "Latin America",
+    "type": "public",
+    "student_count": 95000,
+    "programs": [
+      {
+        "name": "Computer Science",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 880,
+        "graduation_rate": 78.5,
+        "status": "active"
+      },
+      {
+        "name": "Medicine",
+        "field": "Medicine",
+        "degree_level": "bachelor",
+        "enrolled_students": 720,
+        "graduation_rate": 88.3,
+        "status": "active"
+      },
+      {
+        "name": "Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 1200,
+        "graduation_rate": 75.9,
+        "status": "active"
+      },
+      {
+        "name": "Business Administration",
+        "field": "Business",
+        "degree_level": "bachelor",
+        "enrolled_students": 950,
+        "graduation_rate": 77.4,
+        "status": "active"
+      },
+      {
+        "name": "Law",
+        "field": "Law",
+        "degree_level": "bachelor",
+        "enrolled_students": 680,
+        "graduation_rate": 74.8,
+        "status": "active"
+      },
+      {
+        "name": "Data Science",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 320,
+        "graduation_rate": 82.1,
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "name": "King Abdullah University of Science and Technology",
+    "country": "Saudi Arabia",
+    "region": "Middle East",
+    "type": "public",
+    "student_count": 3400,
+    "programs": [
+      {
+        "name": "Computer Science",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 280,
+        "graduation_rate": 91.8,
+        "status": "active"
+      },
+      {
+        "name": "Artificial Intelligence",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 180,
+        "graduation_rate": 92.5,
+        "status": "active"
+      },
+      {
+        "name": "Data Science",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 160,
+        "graduation_rate": 90.3,
+        "status": "active"
+      },
+      {
+        "name": "Electrical Engineering",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 140,
+        "graduation_rate": 89.7,
+        "status": "active"
+      },
+      {
+        "name": "Chemical Engineering",
+        "field": "Engineering",
+        "degree_level": "master",
+        "enrolled_students": 120,
+        "graduation_rate": 88.9,
+        "status": "active"
+      },
+      {
+        "name": "Environmental Science",
+        "field": "Science",
+        "degree_level": "master",
+        "enrolled_students": 110,
+        "graduation_rate": 87.4,
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "name": "American University of Beirut",
+    "country": "Lebanon",
+    "region": "Middle East",
+    "type": "private",
+    "student_count": 10000,
+    "programs": [
+      {
+        "name": "Computer Science",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 380,
+        "graduation_rate": 84.6,
+        "status": "active"
+      },
+      {
+        "name": "Medicine",
+        "field": "Medicine",
+        "degree_level": "bachelor",
+        "enrolled_students": 420,
+        "graduation_rate": 92.3,
+        "status": "active"
+      },
+      {
+        "name": "Business Administration",
+        "field": "Business",
+        "degree_level": "bachelor",
+        "enrolled_students": 560,
+        "graduation_rate": 83.7,
+        "status": "active"
+      },
+      {
+        "name": "Nursing",
+        "field": "Medicine",
+        "degree_level": "bachelor",
+        "enrolled_students": 310,
+        "graduation_rate": 87.1,
+        "status": "active"
+      },
+      {
+        "name": "Public Health",
+        "field": "Medicine",
+        "degree_level": "master",
+        "enrolled_students": 220,
+        "graduation_rate": 88.5,
+        "status": "active"
+      },
+      {
+        "name": "Engineering",
+        "field": "Engineering",
+        "degree_level": "bachelor",
+        "enrolled_students": 480,
+        "graduation_rate": 82.9,
+        "status": "active"
+      },
+      {
+        "name": "Social Work",
+        "field": "Social Sciences",
+        "degree_level": "bachelor",
+        "enrolled_students": 180,
+        "graduation_rate": 81.4,
+        "status": "active"
+      }
+    ]
+  }
+]
